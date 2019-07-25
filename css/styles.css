@@ -1,0 +1,42 @@
+body {
+	color: #2d3c49;
+}
+
+.udacity-logo {
+	margin-top: 10px;
+}
+
+.name {
+	margin-top: 45px;
+	font-size: 60px;
+	font-weight: 250;
+	margin-bottom: 5px;
+}
+
+.sub-title {
+	color: #7d97ad;
+}
+
+.down-text {
+	margin-top: 5px;
+	font-size: 22px;
+	font-weight: 50;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+    /* Link from stack overflow: https://stackoverflow.com/questions/4151743/how-can-i-change-the-thickness-of-my-hr-tag; */
+}
+
+.width {
+	width: 100%;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: 40;
+}
